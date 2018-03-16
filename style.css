@@ -1,0 +1,18 @@
+.header{
+text-align:center;
+color:black;
+}
+.center{
+text-align:center;
+} 
+body{
+background-image:url('pic.jpg');
+background-size:cover;
+font-size:22px
+}
+.link{
+text-align:center;
+}
+.total{
+padding:12% 4% 5% 2%;
+}
